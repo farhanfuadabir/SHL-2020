@@ -1,6 +1,19 @@
+# SHL2020
+
+**Team:** `RED CIRCLE`
+
+This year's challenge <a href="http://www.shl-dataset.org/activity-recognition-challenge-2020/">link</a>.
+
+# Content
+
+- Feature Extraction <a href="SHL_import_featureExtraction.ipynb">Notebook</a>
+- Feature Analysis <a href="SHL_featureAnalysis.ipynb">Notebook</a>
+- Dataset Split and Make Batch <a href="SHL_split_and_batch.ipynb">Notebook</a>
+
 # Feature Column Name
 
 Column Name Format: `[channel]`_`[feature]` Example: `acc_mean`
+
  
 
 ## **Channel** Names - [Total: 10]
